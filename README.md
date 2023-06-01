@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinericksonn&count_private=true&show_icons=true)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinericksonn&layout=compact&langs_count=8)](https://github.com/martinericksonn/github-readme-stats)
