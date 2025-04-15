@@ -1,12 +1,12 @@
 ### Hello there 👋
-![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinericksonn&count_private=true&show_icons=true)
-<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinericksonn&layout=compact&langs_count=8)](https://github.com/martinericksonn/github-readme-stats)
 
 <!--
 **martinericksonn/martinericksonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinericksonn&count_private=true&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
